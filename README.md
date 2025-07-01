@@ -23,7 +23,7 @@ in linked_list_test_program.c. Another reason is to allow you
 to specify to me whether you'd like to use a memory allocation 
 library other than libc's implementation of malloc()/free().
 
-# Paid participants: What To Do Once Finished
+# Paid Participants: What To Do Once Finished
 Send us email (pointerwars2025@gmail.com) with a link to your GitHub page,
 or attach files to the email. If your code passes functional tests and
 valgrind tests, we'll send you code feedback and performance numbers.
@@ -32,7 +32,7 @@ nanonsecond how fast your linked list operations are.
 
 We'll send you Level 2 instructions as well.
 
-# Free Particpants: What To Do Once Finished
+# Free Participants: What To Do Once Finished
 Send us email (pointerwars2025@gmail.com) and we will send along level 2
 instructions for you. If you have changed your mind and want code and 
 performance numbers, you are more than welcome to send mail and we will
