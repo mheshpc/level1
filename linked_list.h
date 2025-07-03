@@ -50,9 +50,8 @@ struct iterator {
 //
 struct linked_list * linked_list_create(void);
 
-// Deletes a linked_list.
+// Deletes a linked_list and frees all memory assoicated with it.
 // \param ll : Pointer to linked_list to delete
-// POSTCONDITION : An empty linked_list has its head point to NULL.
 // Returns TRUE on success, FALSE otherwise.
 //
 bool linked_list_delete(struct linked_list * ll);
